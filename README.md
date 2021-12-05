@@ -13,10 +13,15 @@ git clone https://github.com/SPABOI/Snake-Game-.git
 📖 README.md
 
 🐍 Snake.html
+
 📇 index.html
+
 ✏ sketch.js
+
 🐍 snake.js
+
 📷 snake.png
+
 💎 style.css
 
 # How to run the game?
