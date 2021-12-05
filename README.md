@@ -9,7 +9,9 @@ git clone https://github.com/SPABOI/Snake-Game-.git
 
 # What's Inside
 📃 LICENSE
+
 📖 README.md
+
 🐍 Snake.html
 📇 index.html
 ✏ sketch.js
