@@ -5,6 +5,7 @@ It can run on desktop devices and laptops.
 # Getting started
 Clone repository from git
 Use the command line interface for cloning.
+
 git clone https://github.com/SPABOI/Snake-Game-.git
 
 # What's Inside
