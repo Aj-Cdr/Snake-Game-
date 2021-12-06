@@ -31,6 +31,7 @@ function Snake() {
         console.log('starting over');
         this.total = 0;
         this.tail = [];
+        location.reload('Snake.html')
       }
     }
   };
